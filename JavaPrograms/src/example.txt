@@ -1,0 +1,23 @@
+Hello Harini!
+
+3. Proficiency in front-end technologies (HTML5, CSS3, JavaScript, React, Angular, or Vue.js)
+- Team uses Angular on the front end, so Angular is preferred
+
+4. Solid experience with back-end technologies (Node.js, Python, Django, Java, or Spring Boot)
+- First preference is Java on the back end & second preference is Python
+
+5. Understanding of big data concepts - Focus on engineers who understand concept of distributed computing and how things run under the hood from a big data perspective
+- How do you design the data to be ready to query via big data technologies?
+- More so around big data concepts and distributed computing vs specific big data technology being used
+
+6. Experience with AWS services (EC2, S3, EMR Hive/Presto, RDS, Lambda, Athena, CloudFormation).
+
+General engineering skillsets candidates are expected to have:
+- Experience and writing complex SQL queries against Relational databases.
+- Experience with DevOps tools and practices (Jenkins, Docker, Kubernetes).
+- Familiarity with version control systems (Git, GitHub, bitbucket).
+- Understanding of CI/CD process
+
+AWS, Spring Boot, Microservices
+Angular
+Java
