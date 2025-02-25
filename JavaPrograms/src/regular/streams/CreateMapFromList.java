@@ -37,6 +37,7 @@ public class CreateMapFromList {
         // list.stream().collect(Collectors.toMap(Person::getId, person -> person));
 
         // Handle duplicate keys by keeping the first encountered value
+        @SuppressWarnings("unused")
         Map<Integer, Person> personMap = list.stream()
                 .collect(Collectors.toMap(
                         Person::getId,

@@ -1,4 +1,4 @@
-package leetcode;
+package gliderai;
 
 import java.util.*;
 
@@ -77,6 +77,7 @@ public class ZigZagTraversal {
                 root = parentNode;
         }
 
+        sc.close();
         int[] zigzagOrder = getLevelSpiral(root);
         System.out.println(Arrays.toString(zigzagOrder));
     }

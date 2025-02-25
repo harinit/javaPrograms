@@ -17,11 +17,11 @@ public class ObjectsList {
 
         // String str = (String) listobjects.get(1);
 
-        List<?> list = new ArrayList<>();
-        list = new ArrayList<String>();
-        list = new ArrayList<Integer>();
+        // List<?> list = new ArrayList<>();
+        // list = new ArrayList<String>();
+        // list = new ArrayList<Integer>();
 
-        Object item1 = list.get(0);
+       // Object item1 = list.get(0);
         
 
     }

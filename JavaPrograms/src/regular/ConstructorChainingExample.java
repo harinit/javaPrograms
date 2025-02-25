@@ -1,7 +1,5 @@
 package regular;
 
-import java.lang.reflect.Constructor;
-
 public class ConstructorChainingExample {
 
     String name;

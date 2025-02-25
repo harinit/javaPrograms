@@ -1,4 +1,4 @@
-package leetcode;
+package gliderai;
 
 public class ParenthesesCorrection {
     public static int minInsertions(String S) {

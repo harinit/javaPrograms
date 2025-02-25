@@ -1,4 +1,4 @@
-package leetcode;
+package gliderai;
 
 import java.util.HashMap;
 import java.util.Objects;
@@ -57,7 +57,7 @@ public class TwoSum {
         // find all valid pairs in the array
         var map1 = new HashMap<Integer, Integer>();
 
-        // add return to Line 62
+        // add return to Line 61
          IntStream.range(0, nums.length)
                 .mapToObj(i -> {
                     int complement = target - nums[i];

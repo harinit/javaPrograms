@@ -1,4 +1,4 @@
-package leetcode;
+package gliderai;
 
 public class ThreeLittlePigs1 {
     // public static int countWaysToDivide(int[] arr) {

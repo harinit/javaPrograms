@@ -1,4 +1,4 @@
-package leetcode;
+package gliderai;
 
 import java.util.HashMap;
 import java.util.Map;
